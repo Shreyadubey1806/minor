@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#00826E; /* Light background for subtle 3D effect */
+  }
+  
+  header {
+    background-color: #EFFBFF; /* White header for contrast */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(82, 183, 60, 0.1); /* Subtle shadow for header */
+  }
+  
+  header h1 {
+    font-size: 2em;
+  }
+  
+  header nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header nav a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: #121212;
+  }
+  
+  header nav a.active {
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 40px;
+  }
+  
+  main h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+  }
+  
+  .contact-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-left: 28% ;
+    
+    /* Add some perspective for subtle 3D effect */
+    transform: perspective(200px);
+  }
+  
+  .contact-form form {
+    background-color: #EFFBFF;
+    padding: 20px;
+    border-radius: 5px;
+
+    box-shadow: 0 2px 5px rgba(9, 17, 7, 0.1);
+    /* Add some hover transform for form on hover */
+    transition: transform 0.
+  }
+  h2{
+    color: white;
+  }
+  h1{
+    color: rgb(23, 23, 23);
+    text-align: center;
+  }
+  .contact-info{
+    background-color: #EFFBFF; /* White header for contrast */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 300px;
+    box-shadow: 0 2px 5px rgba(82, 183, 60, 0.1); /* Subtle shadow for header */
+  }
