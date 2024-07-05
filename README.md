@@ -23,4 +23,15 @@ Innovate Spaces is an interior design website developed using HTML, CSS, Bootstr
 ### Conclusion:
 Considering the outlined requirements and functionalities, Innovate Spaces aims to establish a user-friendly and secure website that fosters a positive client experience and empowers users to transform their living spaces into dream homes. Regular reviews and updates based on user feedback and industry trends will ensure the website remains a valuable resource for interior design inspiration and project management.
 
+Below is the website images:
+![Screenshot 2024-05-09 095610](https://github.com/Shreyadubey1806/minor/assets/133537273/f378416f-3c8e-4163-b425-4f3a303bb680)
+![Screenshot 2024-05-09 095743](https://github.com/Shreyadubey1806/minor/assets/133537273/245f8bf5-8e3b-4a46-b35d-b346cd57d03e)
+![Screenshot 2024-05-09 095810](https://github.com/Shreyadubey1806/minor/assets/133537273/eb453fc3-69d4-4c4b-a75e-fca70a484fd4)
+![Screenshot 2024-05-09 095845](https://github.com/Shreyadubey1806/minor/assets/133537273/e46bf37c-28a3-459a-922c-68d52343e03e)
+![Screenshot 2024-05-09 095917](https://github.com/Shreyadubey1806/minor/assets/133537273/8f759781-bf2a-4b36-a7f6-1305bfa56d98)
+![Screenshot 2024-05-09 110107](https://github.com/Shreyadubey1806/minor/assets/133537273/77b55aa7-23e0-491c-be7e-32aceca075d9)
+![Screenshot 2024-05-09 110227](https://github.com/Shreyadubey1806/minor/assets/133537273/ee4ec31c-f38a-4c43-8834-4e364e203bd0)
+![Screenshot 2024-07-02 133435](https://github.com/Shreyadubey1806/minor/assets/133537273/0a82acf6-d86b-44e5-94ce-b78a197ce620)
+
+
 
